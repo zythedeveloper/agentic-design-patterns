@@ -11,3 +11,4 @@ wheels/
 .env
 .virtual_documents
 .ipynb_checkpoints
+.DS_Store
